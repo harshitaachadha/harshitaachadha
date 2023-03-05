@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
 <h3 align="center">A CS graduate student at The George Washington University specialising in Machine Learning and Cognition</h3>
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 🔭 I’m currently working on [Probability for Machine Learning](https://github.com/harshitaachadha/Probability-for-ML)
 
 - 🌱 I’m currently studying **OpenAI's Spinning Up in Deep RL**
