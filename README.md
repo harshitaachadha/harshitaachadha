@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
-<h3 align="center">A CS graduate student at The George Washington University specialising in Machine Learning and Data Science</h3>
+<h3 align="center">CS graduate student at The George Washington University specialising in Machine Learning and Data Science</h3>
 
 - 🔭 I’m currently working on [a prompt-driven song generation pipeline](https://github.com/harshitaachadha/Recurrent-Rhapsody)
 
