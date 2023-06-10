@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
 <h3 align="center">CS graduate student at The George Washington University specialising in Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently working on [a prompt-driven song generation pipeline](https://github.com/harshitaachadha/Recurrent-Rhapsody)
+- 🔭 I’m currently working on [revamping my portfolio](https://github.com/harshitaachadha/academicpages.github.io)
 
-- 🌱 I’m currently studying **the mathematics behind deep learning**
+- 🌱 I’m currently honing **my data analytics skills**
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
