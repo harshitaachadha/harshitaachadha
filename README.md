@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
-<h3 align="center">CS graduate student at The George Washington University specialising in Machine Learning and Data Science</h3>
+<h3 align="center">CS graduate student at The George Washington University specializing in Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently working on [revamping my portfolio](https://github.com/harshitaachadha/academicpages.github.io)
+- 🔭 I’m currently working on [creating a rating-based series script generator](https://github.com/harshitaachadha/Data-Mining-Script-Generation) and [building a recommendation system with Apache Spark](https://github.com/harshitaachadha/Recommendation-System-using-Apache-Spark)
 
-- 🌱 I’m currently honing **my data analytics skills**
+- 🌱 I’m currently honing [**my data visualization skills**](https://github.com/harshitaachadha/academicpages.github.io](https://github.com/harshitaachadha/30-days-of-doing-more-with-plots/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
