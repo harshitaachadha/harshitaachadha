@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [creating a rating-based series script generator](https://github.com/harshitaachadha/Data-Mining-Script-Generation) and [building a recommendation system with Apache Spark](https://github.com/harshitaachadha/Recommendation-System-using-Apache-Spark)
 
-- 🌱 I’m currently honing [**my data visualization skills**](https://github.com/harshitaachadha/academicpages.github.io](https://github.com/harshitaachadha/30-days-of-doing-more-with-plots/tree/main)
+- 🌱 I’m currently honing [my data visualization skills](https://github.com/harshitaachadha/academicpages.github.io](https://github.com/harshitaachadha/30-days-of-doing-more-with-plots/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
