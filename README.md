@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
 <h3 align="center">CS graduate student at The George Washington University specializing in Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently working on [creating a rating-based series script generator](https://github.com/harshitaachadha/Data-Mining-Script-Generation) and [building a recommendation system with Apache Spark](https://github.com/harshitaachadha/Recommendation-System-using-Apache-Spark)
+- 🔭 I’m currently [mining Grey's Anatomy scripts for attributes](https://github.com/harshitaachadha/Data-Mining-Script-Generation)
 
-- 🌱 I’m currently honing **my data visualization skills**
+- 🌱 I’m currently honing **my data analytics skills**
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
-- 💬 Ask me about **all things data science and machine learning**
+- 💬 Ask me about **building narratives from data**
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
