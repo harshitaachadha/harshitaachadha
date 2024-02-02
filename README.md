@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Harshita</h1>
 <h3 align="center">CS graduate student at The George Washington University specializing in Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently [mining Grey's Anatomy scripts for attributes](https://github.com/harshitaachadha/Data-Mining-Script-Generation)
+- 🔭 I’m currently working to obtain my AWS Cloud Practitioner Certification.
 
-- 🌱 I’m currently honing **my data analytics skills**
+- 🌱 I’m currently honing **my time series skills**
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
