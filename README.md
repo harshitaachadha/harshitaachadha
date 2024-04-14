@@ -1,15 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Harshita "Hershey"</h1>
 <h3 align="center">CS graduate student at George Washington University specializing in Data Science & Analytics</h3>
 
-- 🔭 I’m currently working on improving my Tableau/PowerBI Portfolio [https://public.tableau.com/app/profile/harshita.chadha/vizzes]
+- 🔭 I’m currently working on improving my [Tableau](https://public.tableau.com/app/profile/harshita.chadha/vizzes) /PowerBI Portfolio
 
-- 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
+- 👨‍💻 All of my projects are available on [my pages portfolio](https://harshitaachadha.github.io/)
 
 - 💬 Ask me about **all things data and machine learning**
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
-- ⚡ Fun fact **I sing karaoke when I'm angry**
+- ⚡ Fun fact **A picture's worth a thousand words - IYKYK**
+<br><a href="https://postimg.cc/XXznywPH"><img src="https://i.postimg.cc/Wb2zC8wv/Screenshot-2024-04-14-at-7-33-33-PM.png" alt="Screenshot" width="250" height="150"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
