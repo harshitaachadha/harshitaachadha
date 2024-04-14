@@ -1,13 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Harshita</h1>
-<h3 align="center">CS graduate student at The George Washington University specializing in Machine Learning and Data Science</h3>
+<h1 align="center">Hi there 👋, I'm Harshita "Hershey"</h1>
+<h3 align="center">CS graduate student at George Washington University specializing in Data Science & Analytics</h3>
 
-- 🔭 I’m currently working to obtain my AWS Cloud Practitioner Certification.
-
-- 🌱 I’m currently honing **my time series skills**
+- 🔭 I’m currently working on building supply chain dashboards to sharpen my PowerBI skills
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
-- 💬 Ask me about **building narratives from data**
+- 💬 Ask me about **all things data and machine learning**
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
