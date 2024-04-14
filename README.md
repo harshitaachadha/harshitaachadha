@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Harshita "Hershey"</h1>
 <h3 align="center">CS graduate student at George Washington University specializing in Data Science & Analytics</h3>
 
-- 🔭 I’m currently working on building supply chain dashboards to sharpen my PowerBI skills
+- 🔭 I’m currently working on improving my Tableau/PowerBI Portfolio [https://public.tableau.com/app/profile/harshita.chadha/vizzes]
 
 - 👨‍💻 All of my projects are available at [https://harshitaachadha.github.io/](https://harshitaachadha.github.io/)
 
