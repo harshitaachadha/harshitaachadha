@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
-- ⚡ Fun fact **A picture's worth a thousand words - IYKYK**
+- ⚡ Fun fact **I love memes and the Twilight Saga (Yes, the problematic YA series about teenage vampires)** <br>
 <br><a href="https://postimg.cc/XXznywPH"><img src="https://i.postimg.cc/Wb2zC8wv/Screenshot-2024-04-14-at-7-33-33-PM.png" alt="Screenshot" width="250" height="150"></a>
 
 
