@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on improving my [Tableau](https://public.tableau.com/app/profile/harshita.chadha/vizzes) /PowerBI Portfolio.
 
-- 👨‍💻 All of my projects are available on [my pages portfolio](https://harshitaachadha.github.io/).
+- 👨‍💻 All of my projects are available here or on [my website](https://harshitaachadha.github.io/).
 
-- 💬 Ask me about **all things data and statistics**.
+- 💬 Ask me about **all things data, visualizations and statistics**.
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
