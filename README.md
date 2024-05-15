@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Harshita "Hershey"</h1>
-<h3 align="center">CS graduate student at George Washington University specializing in Data Science & Analytics</h3>
+<h3 align="center">Data Analyst with an MS Degree Looking to Break into Big-Tech in 2024's 🗑️🔥 Market!</h3>
 
-- 🔭 I’m currently working on improving my [Tableau](https://public.tableau.com/app/profile/harshita.chadha/vizzes) /PowerBI Portfolio
+- 🔭 I’m currently working on improving my [Tableau](https://public.tableau.com/app/profile/harshita.chadha/vizzes) /PowerBI Portfolio.
 
-- 👨‍💻 All of my projects are available on [my pages portfolio](https://harshitaachadha.github.io/)
+- 👨‍💻 All of my projects are available on [my pages portfolio](https://harshitaachadha.github.io/).
 
-- 💬 Ask me about **all things data and machine learning**
+- 💬 Ask me about **all things data and statistics**.
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
