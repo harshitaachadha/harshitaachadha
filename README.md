@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Harshita "Hershey"</h1>
-<h3 align="center">Data Analyst with an MS Degree Looking to Break into Big-Tech in 2024's 🗑️🔥 Market!</h3>
+<h1 align="center">Hi there 👋, I'm Harshita</h1>
+<h3 align="center">A PM with a robust tech background</h3>
 
 - 🔭 I’m currently working on improving my [Tableau](https://public.tableau.com/app/profile/harshita.chadha/vizzes) /PowerBI Portfolio.
 
 - 👨‍💻 All of my projects are available here or on [my website](https://harshitaachadha.github.io/).
 
-- 💬 Ask me about **all things data, visualizations and statistics**.
+- 💬 Ask me about **all things agile and statistics**.
 
 - 📫 How to reach me **harshitachadha@gwu.edu**
 
